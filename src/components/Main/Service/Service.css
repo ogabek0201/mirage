@@ -1,0 +1,33 @@
+.block {
+  background: #ffffff;
+  border-radius: 20px 0 20px 0;
+  width: 270px;
+  height: 307px;
+  padding: 23px;
+  background: #fff1f9;
+  border-radius: 8px;
+}
+
+.block img {
+  display: block;
+  margin: 33px auto;
+}
+
+.block h3 {
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 72px;
+  color: #56597a;
+  text-align: center;
+}
+
+.block p {
+  color: #5c6574;
+  font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: center;
+
+color: #919299;
+}

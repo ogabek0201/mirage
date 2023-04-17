@@ -1,38 +1,63 @@
-.App {
-  text-align: center;
+@media (max-width: 1050px) {
+    .img {
+        width: 400px;
+    }
+
+;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@media (max-width: 770px) {
+    .img {
+        width: 500px;
+    }
+
+    .list {
+        display: none;
+
+    }
+
+    .list img {
+        display: block;
+    }
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@media (max-width: 430px) {
+    .img {
+        width: 350px;
+    }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.swiper {
+    width: 120%;
+    height: 650px;
 }
 
-.App-link {
-  color: #61dafb;
+.swiper-slide {
+    /* width: 100%; */
+    text-align: center;
+    font-size: 18px;
+    /* background: #F3F4F4; */
+    margin: 100px 0 0;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.swiper-slide, swiper-slide {
+    width: 100% !important;
+    /* margin: 100px auto 0!important; */
+
 }
+
+.swiper-pagination-bullet {
+    background-color: #ea279f !important;
+    margin-top: 117px !important;
+}
+
+.swiper, swiper-container {
+    margin-left: -30px !important;
+    /* margin-right: 0px!important; */
+}
+

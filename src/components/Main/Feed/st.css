@@ -1,0 +1,30 @@
+@media (max-width: 770px) {
+.c-img{
+  width: 300px;
+}
+ .swiper {
+  width: 100%;
+  height: 1050px;
+  /* text-align: center!important; */
+  
+}/*
+.swiper, swiper-container{
+  margin-left: 30px!important;
+  /* margin-right: 0px!important; */
+}
+
+/* } */
+
+@media (max-width: 430px) {
+  .swiper {
+    width: 100%;
+    height: 1100px;
+    /* text-align: center!important; */
+    
+  }
+}
+@media (max-width: 1030px) {
+  .c-img{
+    width: 400px;
+  }
+}

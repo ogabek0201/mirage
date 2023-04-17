@@ -1,0 +1,50 @@
+{
+    "navbar":{
+    "text1":"Home",
+    "text2":"About",
+    "text3":"Product",
+    "text4":"Pricing"
+    },
+    "footer":{
+        "text1":"560 N Riverview D Ste 658 North Carolina DA 598745 USA",
+        "text2":"Follow us on",
+        "text3":"Resouces   ",
+        "text4":"Home",
+        "text5":"Order",
+        "text6":"FAQ",
+        "text7":"Contact",
+        "text8":"About",
+        "text9":"Style Guide",
+        "text10":"Changelog",
+        "text11":"Licence",
+        "text12":"Webflow University",
+        "text13":"Helpful link"
+    },
+    "get":"Get started",
+    "one":{
+        "text1":"__ Creative Agency",
+        "text2":"We Deliver The Best Product for You",
+        "text3":"Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints, engineering drawings, business processes,"
+    },
+    "two":{
+        "text1":"Our Services",
+        "text2":"Why People Choose Us",
+        "text3":"Design Things",
+        "text4":"We Loves To Design Your Creative Ideas",
+        "text5":"A creative concept is an overarching “Big Idea” that captures audience interest, influences their emotional response and inspires them to take action.It is a unifying theme that can be used across all campaign messages",
+        "text6":"",
+        "text7":"",
+        "text8":"",
+        "text9":"",
+        "text10":"",
+        "text11":"",
+        "text12":"",
+        "text13":""
+    },
+    "three":{
+        "text1":"Our Teamwork",
+        "text2":"We Believe Success Lies On Teamwork",
+        "text3":"Good teamwork means a synergistic way of working with each person committed and working towards a shared goal. ... It is therefore a necessity that leaders facilitate and build the teamwork skills of their people if they are"
+    },
+    "li":"All Rights Reserved By Mirage 2020"
+}
